@@ -1,6 +1,7 @@
 # InfiniteMoney
 
 [![](https://img.shields.io/github/downloads/Jalopy-Mods/InfiniteMoney/total)](#)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8OGPIQ)
 
 This mod makes you forget about being broke, by setting your money to 9999 every time you purchase/sell something.
 
